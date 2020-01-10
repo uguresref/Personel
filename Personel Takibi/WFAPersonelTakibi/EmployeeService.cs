@@ -28,12 +28,11 @@ namespace WFAPersonelTakibi
 
         public Employee GetById(Guid id)
         {
-            return employees.FirstOrDefault(x => x.Id == id); // parametre gönderdiğim id değerine göre, liste içerisinden id değeri eşleşen kaydı bana teslim et. ( ilk bulduğu)
-        }
+            return employees.FirstOrDefault(x => x.Id == id);
 
         public void Update(Employee entity)
         {
-           // database için :)
+          
         }
     }
 }
