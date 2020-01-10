@@ -1,0 +1,16 @@
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\bin\Debug\WFAPersonelTakibi.exe.config
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\bin\Debug\WFAPersonelTakibi.exe
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\bin\Debug\WFAPersonelTakibi.pdb
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\bin\Debug\MetroFramework.Design.dll
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\bin\Debug\MetroFramework.dll
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.csprojAssemblyReference.cache
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Form1.resources
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Form2.resources
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Form3.resources
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Form4.resources
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Properties.Resources.resources
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.csproj.GenerateResource.cache
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.csproj.CopyComplete
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.exe
+C:\Users\can\Desktop\WFA_PersonelTakibi-master\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.pdb
