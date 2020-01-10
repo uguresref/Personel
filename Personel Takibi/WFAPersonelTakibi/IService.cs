@@ -16,4 +16,3 @@ namespace WFAPersonelTakibi
         void Update(T entity);
     }
 }
-// Generic Repository Design Patter Nedir ?
